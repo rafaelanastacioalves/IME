@@ -729,7 +729,7 @@
 <XPD:REF name="Views[2]">XBax0t3L/Um5vJdhGh8OmgAA</XPD:REF>
 <XPD:REF name="Views[3]">VycZ6biuAEqiDcc/bl6mBQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedCollaborationInstanceSets" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#OwnedCollaborationInstanceSets" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="OwnedCollaborationInstanceSets[0]" type="UMLCollaborationInstanceSet" guid="FfFDhhQ91EOXnpwED90BAAAA">
 <XPD:ATTR name="Name" type="string">CollaborationInstanceSet1</XPD:ATTR>
 <XPD:REF name="RepresentedClassifier">3BfFSTXqWUO2C+kjM/Ps6wAA</XPD:REF>
@@ -745,6 +745,15 @@
 <XPD:REF name="Diagram">IsKIPPh4nEmZmUiyMVubPAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedCollaborationInstanceSets[1]" type="UMLCollaborationInstanceSet" guid="JVEe5pd8DkK9XoW2saeWWAAA">
+<XPD:ATTR name="Name" type="string">CollaborationInstanceSet2</XPD:ATTR>
+<XPD:REF name="RepresentedClassifier">3BfFSTXqWUO2C+kjM/Ps6wAA</XPD:REF>
+<XPD:ATTR name="#InteractionInstanceSets" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="InteractionInstanceSets[0]" type="UMLInteractionInstanceSet" guid="ZcHoM61JGUCIwORm0BFArwAA">
+<XPD:ATTR name="Name" type="string">InteractionInstanceSet1</XPD:ATTR>
+<XPD:REF name="Context">JVEe5pd8DkK9XoW2saeWWAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>

@@ -1,0 +1,38 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="502" measuredH="156" mockupW="264" mockupH="150">
+  <controls>
+    <control controlID="3" controlTypeID="__group__" x="238" y="6" w="281" h="543" measuredW="281" measuredH="543" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="281" h="543" measuredW="281" measuredH="543" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="281" h="543"/>
+            <override controlID="1" x="14" y="61" w="254" h="410"/>
+            <override controlID="2" x="110" y="485" w="65" h="41"/>
+            <override controlID="3" x="102" y="14" w="84" h="10"/>
+            <override controlID="4" x="27" y="20" w="-1" h="-1"/>
+            <override controlID="5" x="214" y="493" w="-1" h="-1"/>
+            <override controlID="6" x="39" y="493" w="-1" h="-1"/>
+            <override controlID="7" x="16" y="64" w="248" h="19"/>
+            <override controlID="8" x="211" y="63" w="55" h="20"/>
+            <override controlID="9" x="141" y="65" w="-1" h="-1"/>
+            <override controlID="10" x="164" y="65" w="-1" h="-1"/>
+            <override controlID="11" x="188" y="65" w="-1" h="-1"/>
+            <src>./assets/Samsung%20Galaxy%20S2.bmml#Samsung%20Galaxy%20S2</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="16" y="81" w="248" h="37" measuredW="248" measuredH="37" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="248" h="37"/>
+            <override controlID="1" x="5" y="12" w="16" h="16"/>
+            <override controlID="12" x="225" y="10" w="7" h="19"/>
+            <override controlID="12:2" x="2" y="13" w="4" h="4"/>
+            <override controlID="-1"/>
+            <override controlID="12:1" x="2" y="7" w="4" h="4"/>
+            <override controlID="12:0" x="2" y="1" w="4" h="4"/>
+            <override controlID="12:4" x="0" y="0" w="7" h="19"/>
+            <src>./assets/Android%204%20Controls.bmml#ga-action-bar</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
